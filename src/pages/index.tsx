@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { MdMarkunread } from "react-icons/md";
-import styles from './home.module.scss';
+import styles from './Home.module.scss';
 
 export default function Home() {
   return (
