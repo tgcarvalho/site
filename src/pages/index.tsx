@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { MdMarkunread } from "react-icons/md";
 import styles from './home.module.scss';
@@ -5,6 +6,9 @@ import styles from './home.module.scss';
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Thiago Carvalho | Full-Stack Web Developer</title>
+      </Head>
       <div className={styles.home}>
         <h2 className={styles.text}>
           Hello, I'm <span className={styles.highlight}>Thiago Carvalho</span>.<br/>
