@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaMediumM } from "react-icons/fa";
 import { MdMarkunread } from "react-icons/md";
 import styles from './Home.module.scss';
 
@@ -24,6 +24,9 @@ export default function Home() {
           <a href="https://www.linkedin.com/in/tgcarvalho/" target="_blank">
             <FaLinkedinIn />
           </a>
+          <a href="https://tgcarvalho.medium.com" title="Publicações" target="_blank">
+            <FaMediumM />
+          </a>           
         </div>
       </div> 
     </>
