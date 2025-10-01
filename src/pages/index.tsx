@@ -21,7 +21,7 @@ export default function Home() {
           <a href="https://github.com/tgcarvalho" target="_blank">
             <FaGithub />
           </a>
-          <a href="https://www.linkedin.com/in/tgcarvalho/" target="_blank">
+          <a href="https://www.linkedin.com/in/thiagobernadi/" target="_blank">
             <FaLinkedinIn />
           </a>
           <a href="https://tgbernadi.medium.com" title="Publicações" target="_blank">
