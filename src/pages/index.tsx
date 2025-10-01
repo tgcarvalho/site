@@ -18,7 +18,7 @@ export default function Home() {
           <a href="mailto:thiago.xsource@gmail.com?subject=Hi Thiago Bernadi!" title="Mail me">
             <MdMarkunread />
           </a>
-          <a href="https://github.com/tgcarvalho" target="_blank">
+          <a href="https://github.com/tgbernadi" target="_blank">
             <FaGithub />
           </a>
           <a href="https://www.linkedin.com/in/thiagobernadi/" target="_blank">
